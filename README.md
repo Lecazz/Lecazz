@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lecazz!
 
-<!--
-**Lecazz/Lecazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Tecnologia em Sistemas para Internet.
 
-Here are some ideas to get you started:
+🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Projetos
+
+- 🎬 Sistema de Cinema
+- 🍔 Restaurante Aí Que Fome
+- 🧩 Labirinto
+- 🐶 Hotel Pets
+- 🧮 Cálculo de IMC
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Banco de Dados
+- Programação
+
+## 📫 Contato
+
+- GitHub: https://github.com/Lecazz
+- E-mail: caiobracale@gmail.com
